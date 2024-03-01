@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-image: linear-gradient(to right, red, yellow);
+}
+
+h1 {
+    color: #333;
+}
+
+#choices {
+    margin-top: 20px;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #333;
+}
